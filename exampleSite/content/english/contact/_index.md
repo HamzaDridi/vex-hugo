@@ -2,7 +2,7 @@
 title: Contact
 description: this is a meta description
 office:
-  title: Central Office
+  title: Boutique
   mobile: "+21626435471"
   email: store712.manager@gmail.com
   location: Tunis, Mannoubha
