@@ -1,11 +1,11 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "Vex | hugo landing page template"
+baseurl = "http://store712.tn/"
+title = "Store712 | Mode de luxe pour hommes et femmes"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "UA-214869998-1" # Ex: UA-123-45
 # disable language
 disableLanguages = [] # disable language from here
 
@@ -42,12 +42,12 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
+name = "Acceuil"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
+name = "Produits"
 url = "products"
 weight = 2
 
@@ -136,4 +136,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = ""
