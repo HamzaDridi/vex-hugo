@@ -1,4 +1,4 @@
-baseurl = "http://store712.tn/"
+baseurl = "https://store712.tn/"
 disableLanguages = []
 googleAnalytics = "UA-214869998-1"
 summarylength = "20"
@@ -60,7 +60,7 @@ author = "Store712"
 contact_form_action = "#"
 currency = "TND"
 description = "Portez des grandes marques et labels de mode émergents sur Store712.  Livraison a domicile."
-logo = "images/logo.png"
+logo = "images/logo2.png"
 logo_width = "100px"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
