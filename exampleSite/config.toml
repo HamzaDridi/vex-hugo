@@ -84,7 +84,7 @@ link = ""
 enable = true
 preloader = ""
 [params.snipcart]
-enable = true
+enable = false
 snipcart_api = ""
 [params.subscription]
 mailchimp_form_action = ""
