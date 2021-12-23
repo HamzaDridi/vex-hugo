@@ -20,10 +20,9 @@ features:
   - title: Qualité haut de gamme
     icon: tf-ion-android-checkbox-outline
     content: Confectionné avec un tissu molletonné doux et confortable de haute gamme
-  - title: Easy Pricing
+  - title: Prix Justifié
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Nos prix sont justifiés par la qualité de nos produits et notre service.
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
