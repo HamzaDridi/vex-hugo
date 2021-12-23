@@ -12,7 +12,7 @@ banner:
 features:
   enable: true
   title: Toujours plus d'exclusivités pour vous
-  image: images/watch-2.png
+  image: images/nfboy.jpg
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
