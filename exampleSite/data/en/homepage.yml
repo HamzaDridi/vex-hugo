@@ -4,7 +4,7 @@ banner:
   title: Changez votre style <br> Portez a la mode
   content: Store712 vous fournis des vêtements de haute qualité , pour que vous soyez
     toujours a la mode, avec un style jeune , et un choix infini.
-  image: "/images/image.jpg"
+  image: "/images/main.jpeg"
   button:
     enable: true
     label: Tous Nos Produits
