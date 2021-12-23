@@ -24,10 +24,9 @@ features:
   - title: Prix Justifié
     icon: tf-ion-ios-cart-outline
     content: Nos prix sont justifiés par la qualité de nos produits et notre service.
-  - title: Elegant Design
+  - title: Livraison à domicile et paiement à la livraison
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Livraison via First Delivery sur toute la Tunisie (8dt frais de livraison)
 promo:
   enable: true
   image: images/watch.png
