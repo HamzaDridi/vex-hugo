@@ -1,15 +1,13 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  title: Changez votre style <br> Portez a la mode
+  content: Store712 vous fournis des vêtements de haute qualité , pour que vous soyez
+    toujours a la mode, avec un style jeune , et un choix infini.
   image: "/images/image.jpg"
   button:
     enable: true
-    label: Browse All Productt
+    label: Tous Nos Produits
     link: products
 features:
   enable: true
