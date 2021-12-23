@@ -15,7 +15,7 @@ features:
   image: images/nfboy.jpg
   left_side:
   - title: Couleurs
-    icon: color-palette-outline
+    icon: ion-ios-color-filter-outline
     content: Une liste de couleurs pour pour chaque saision, pour votre casual outfits.
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
