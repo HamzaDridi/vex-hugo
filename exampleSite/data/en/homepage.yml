@@ -15,12 +15,11 @@ features:
   image: images/nfboy.jpg
   left_side:
   - title: Couleurs
-    icon: ion-ios-color-filter-outline
-    content: Une liste de couleurs pour pour chaque saision, pour votre casual outfits.
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    icon: tf-ion-android-color-palette
+    content: Un choix de couleurs pour chaque saison, pour votre casual outfit.
+  - title: Qualité haut de gamme
+    icon: tf-ion-android-checkbox-outline
+    content: Confectionné avec un tissu molletonné doux et confortable de haute gamme
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
