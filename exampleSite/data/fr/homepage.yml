@@ -1,46 +1,38 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
-  image: "/images/image.jpg"
+  title: Changez votre style <br> Portez a la mode
+  content: Store712 vous fournis des vêtements de haute qualité , pour que vous soyez
+    toujours a la mode, avec un style jeune , et un choix infini.
+  image: "/images/main.jpeg"
   button:
     enable: true
-    label: Browse All Products
+    label: Tous Nos Produits
     link: products
 features:
   enable: true
-  title: Our Core Features
-  image: images/watch-2.png
+  title: Toujours plus d'exclusivités pour vous
+  image: images/nfboy.jpg
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Couleurs
+    icon: tf-ion-android-color-palette
+    content: Un choix de couleurs pour chaque saison, pour votre casual outfit.
+  - title: Qualité haut de gamme
+    icon: tf-ion-android-checkbox-outline
+    content: Confectionné avec un tissu molletonné doux et confortable de haute gamme
   right_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+  - title: Échange
+    icon: ''
+    content: Nous vous offrons un échange  pendant 7 jours en cas d'une faute d’expédition
+      de notre part ou du service de livraison ou en cas de casse ou d'article abîmé<br>
+      Problème de taille ?   Pas d'inquiétude, nous vous permettons de réaliser un
+      échange. ( Les frais de retour sont à votre charge.)
+  - title: Prix Justifié
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Nos prix sont justifiés par la qualité de nos produits et notre service.
+  - title: Livraison à domicile et paiement à la livraison
+    icon: tf-ion-ios-bell-outline
+    content: Livraison via First Delivery sur toute la Tunisie (8dt frais de livraison)
 promo:
   enable: true
   image: images/watch.png
