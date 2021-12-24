@@ -1,5 +1,5 @@
 baseurl = "https://store712.tn"
-disableLanguages = []
+disableLanguages = ["En"]
 googleAnalytics = "UA-214869998-1"
 summarylength = "20"
 theme = "vex-hugo"
