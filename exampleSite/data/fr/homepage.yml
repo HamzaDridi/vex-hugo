@@ -21,12 +21,6 @@ features:
     icon: tf-ion-android-checkbox-outline
     content: Confectionné avec un tissu molletonné doux et confortable de haute gamme
   right_side:
-  - title: Échange
-    icon: ''
-    content: Nous vous offrons un échange  pendant 7 jours en cas d'une faute d’expédition
-      de notre part ou du service de livraison ou en cas de casse ou d'article abîmé<br>
-      Problème de taille ?   Pas d'inquiétude, nous vous permettons de réaliser un
-      échange. ( Les frais de retour sont à votre charge.)
   - title: Prix Justifié
     icon: tf-ion-ios-cart-outline
     content: Nos prix sont justifiés par la qualité de nos produits et notre service.
