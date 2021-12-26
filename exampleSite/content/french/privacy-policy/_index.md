@@ -1,10 +1,6 @@
 ---
 title: Termes & Conditions
 description: Termes & Conditions
-menu:
-  footer:
-    name: Terms & Conditions
-    weight: 3
 
 ---
 **ARTICLE 1 : APPLICATIONS DES CONDITIONS GÉNÉRALES DE VENTE**
