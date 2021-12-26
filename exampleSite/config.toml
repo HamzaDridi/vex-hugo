@@ -35,9 +35,9 @@ name = "Contact"
 url = "https://store712.tn/contact"
 weight = 4
 [[menu.main]]
-name = "Review"
+name = "Commentaires"
 pre = "#"
-url = "https://store712.tn#testimonial"
+url = "https://store712.tn"
 weight = 3
 [[menu.main]]
 name = "Produits"
