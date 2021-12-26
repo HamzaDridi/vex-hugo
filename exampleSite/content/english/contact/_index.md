@@ -11,5 +11,8 @@ opennig_hour:
   title: ''
   day_time:
   - ''
+menu:
+  footer:
+    weight: 2
 
 ---
