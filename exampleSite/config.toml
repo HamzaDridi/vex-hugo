@@ -28,7 +28,7 @@ url = "blog"
 weight = 1
 [[menu.main]]
 name = "Contact"
-url = "contact"
+url = "https://store712.tn/contact"
 weight = 4
 [[menu.main]]
 name = "Review"
@@ -41,7 +41,7 @@ url = "https://store712.tn/products"
 weight = 2
 [[menu.main]]
 name = "Acceuil"
-url = "/"
+url = "https://store712.tn"
 weight = 1
 [params]
 author = "Store712"
