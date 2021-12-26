@@ -6,18 +6,20 @@ images:
 - "/images/green-hoodie.png"
 - "/images/img_20211117_213351-1.jpg"
 - "/images/marr.png"
-description: this is meta description
-price: '30.00'
-discount_price: '25.00'
+description: Capuche Vintage
+price: '65.00'
+discount_price: "0"
 colors:
-- black
-- white
-- gray
+- vert
+- beige
+- marron
 sizes:
-- small
-- medium
-- large
+- S
+- M
+- L
+- XL
+- XXL
+- XXL
 button_link: "#"
 
 ---
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
