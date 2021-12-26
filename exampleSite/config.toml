@@ -37,15 +37,11 @@ weight = 1
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Review"
 pre = "#"
-url = "testimonial"
-weight = 4
-[[menu.main]]
-name = "Blog"
-url = "blog"
+url = "https://store712.tn/#testimonial"
 weight = 3
 [[menu.main]]
 name = "Produits"
