@@ -1,6 +1,6 @@
 +++
 button_link = "#"
-colors = ["Noir"]
+colors = ["Noir", "Caramel"]
 date = 2021-11-04T05:22:16Z
 description = "Capuche The North Face Gucci"
 discount_price = ""
