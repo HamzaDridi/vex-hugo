@@ -6,13 +6,13 @@ theme = "vex-hugo"
 title = "Store712 | Mode de luxe pour hommes et femmes"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Store 712 (https://store712.tn/) "
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = ""
+copyright = "Store 712 (https://store712.tn/) "
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
