@@ -1,5 +1,5 @@
 baseurl = "https://store712.tn"
-disableLanguages = ["En"]
+disableLanguages = []
 googleAnalytics = "UA-214869998-1"
 summarylength = "20"
 theme = "vex-hugo"
@@ -18,26 +18,26 @@ languageName = "Fr"
 weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
+[menu.main]
+name = "Commentaires"
+pre = "#"
+weight = 3
 [[menu.footer]]
-name = "Terms & Conditions"
-url = "https://store712.tn/privacy-policy"
+name = "Blog"
+url = "blog"
+weight = 1
+[[menu.footer]]
+name = "Contact"
+url = "contact"
 weight = 2
 [[menu.footer]]
-name = "Contact"
-url = "https://store712.tn/contact"
-weight = 1
-[[menu.footer]]
-name = "Privacy Policy"
-url = "https://store712.tn/privacy-policy"
+name = "Termes & Conditions"
+url = "terms-conditions"
 weight = 3
-[[menu.main]]
-name = "Contact"
-url = "https://store712.tn/contact"
+[[menu.footer]]
+name = "Politique vie privé"
+url = "privacy-policy"
 weight = 4
-[[menu.main]]
-name = "Acceuil"
-url = "https://store712.tn"
-weight = 1
 [params]
 author = "Store712"
 contact_form_action = "#"
