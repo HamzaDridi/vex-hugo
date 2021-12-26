@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Tous Nos Produits
-    link: products
+    link: https://store712.tn/products
 features:
   enable: true
   title: Toujours plus d'exclusivités pour vous
@@ -53,13 +53,13 @@ products:
   enable: true
   title: Voir la liste de tous nos produits
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
