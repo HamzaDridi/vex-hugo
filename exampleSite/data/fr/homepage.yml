@@ -86,3 +86,8 @@ testimonial:
       feel the charm of existence in this spot, which was created for the bliss of
       souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
       sense of mere tranquil existence, that I neglect my talents.
+menu:
+  main:
+    name: Commentaires
+    pre: "#"
+    weight: 3

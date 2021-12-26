@@ -31,13 +31,8 @@ name = "Privacy Policy"
 url = "https://store712.tn/privacy-policy"
 weight = 3
 [[menu.main]]
-name = "Commentaires"
-pre = "#"
-url = "https://store712.tn/"
-weight = 3
-[[menu.main]]
 name = "Produits"
-url = "https://store712.tn/products"
+url = "https://store712.tn/fr/products/"
 weight = 2
 [[menu.main]]
 name = "Contact"
