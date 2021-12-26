@@ -1,6 +1,6 @@
 ---
-title: Terms & Conditions
-description: this is a meta description
+title: Termes & Conditions
+description: Termes & Conditions
 
 ---
 **ARTICLE 1 : APPLICATIONS DES CONDITIONS GÉNÉRALES DE VENTE**
