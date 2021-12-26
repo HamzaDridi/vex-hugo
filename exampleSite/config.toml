@@ -19,42 +19,42 @@ weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 4
+[[menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+weight = 3
 [[menu.footer]]
 name = "Contact"
 url = "contact"
 weight = 2
 [[menu.footer]]
-name = "Termes & Conditions"
-url = "terms-conditions"
-weight = 3
-[[menu.footer]]
-name = "Politique vie privé"
-url = "privacy-policy"
-weight = 4
-[[menu.main]]
-name = "Acceuil"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Produits"
-url = "products"
-weight = 2
-[[menu.main]]
 name = "Blog"
 url = "blog"
-weight = 3
-[[menu.main]]
-name = "Commentaires des clients"
-pre = "#"
-url = "testimonial"
-weight = 4
+weight = 1
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 5
+[[menu.main]]
+name = "Review"
+pre = "#"
+url = "testimonial"
+weight = 4
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 3
+[[menu.main]]
+name = "Produits"
+url = "https://store712.tn/products"
+weight = 2
+[[menu.main]]
+name = "Acceuil"
+url = "/"
+weight = 1
 [params]
 author = "Store712"
 contact_form_action = "#"
