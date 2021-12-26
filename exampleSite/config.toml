@@ -41,7 +41,7 @@ weight = 4
 [[menu.main]]
 name = "Review"
 pre = "#"
-url = "https://store712.tn/#testimonial"
+url = "https://store712.tn#testimonial"
 weight = 3
 [[menu.main]]
 name = "Produits"
