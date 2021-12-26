@@ -1,7 +1,17 @@
 ---
 title: 'Capuche Vintage '
-date: 2020-12-24T05:22:16+00:00
-images: []
+date: 2020-12-24T05:22:16.000+00:00
+images:
+- "/images/img_20211117_220944_827.webp"
+- "/images/img_20211102_221606_967.jpg"
+- "/images/img_20211101_013917_109.jpg"
+- "/images/img_20211102_221606_888.jpg"
+- "/images/img_20211121_214213_710.jpg"
+- "/images/img_20211121_214209_609.jpg"
+- "/images/img_20211117_205647-1.jpg"
+- "/images/img_20211117_213351-1.jpg"
+- "/images/marr.png"
+- "/images/green-hoodie.png"
 description: Capuche Nike Vintage
 price: '65.00'
 discount_price: ''
