@@ -29,7 +29,7 @@ features:
     content: Livraison via First Delivery sur toute la Tunisie (8dt frais de livraison)
 promo:
   enable: true
-  image: images/green hoodie.png
+  image: images/green-hoodie.png
   title: Nos produits sont a la hauteur de votre confiance.
   content: 'Les sites marchands se sont longtemps concentrés sur les KPI traditionnels
     de la vente en ligne, comme l’acquisition de trafic, le panier moyen ou encore
