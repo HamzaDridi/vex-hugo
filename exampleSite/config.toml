@@ -18,26 +18,35 @@ languageName = "Fr"
 weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
-[menu.main]
-name = "Commentaires"
-pre = "#"
-weight = 3
 [[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.footer]]
-name = "Contact"
-url = "contact"
+name = "Terms & Conditions"
+url = "https://store712.tn/privacy-policy"
 weight = 2
 [[menu.footer]]
-name = "Termes & Conditions"
-url = "terms-conditions"
-weight = 3
+name = "Contact"
+url = "https://store712.tn/contact"
+weight = 1
 [[menu.footer]]
-name = "Politique vie privé"
-url = "privacy-policy"
+name = "Privacy Policy"
+url = "https://store712.tn/privacy-policy"
+weight = 3
+[[menu.main]]
+name = "Commentaires"
+pre = "#"
+url = "https://store712.tn/"
+weight = 3
+[[menu.main]]
+name = "Produits"
+url = "https://store712.tn/products"
+weight = 2
+[[menu.main]]
+name = "Contact"
+url = "https://store712.tn/contact"
 weight = 4
+[[menu.main]]
+name = "Acceuil"
+url = "https://store712.tn"
+weight = 1
 [params]
 author = "Store712"
 contact_form_action = "#"
