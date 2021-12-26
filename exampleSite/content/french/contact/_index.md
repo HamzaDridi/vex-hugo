@@ -14,4 +14,4 @@ opennig_hour:
   - Alaways
 
 ---
-[https://www.instagram.com/_store712_/](https://www.instagram.com/_store712_/ "https://www.instagram.com/_store712_/")
+[https://www.instagram.com/_store712_/](https://www.instagram.com/_store712_/ "Store712.tn")
