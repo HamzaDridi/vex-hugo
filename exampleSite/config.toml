@@ -35,10 +35,6 @@ name = "Contact"
 url = "https://store712.tn/contact"
 weight = 4
 [[menu.main]]
-name = "Produits"
-url = "https://store712.tn/products"
-weight = 2
-[[menu.main]]
 name = "Acceuil"
 url = "https://store712.tn"
 weight = 1
