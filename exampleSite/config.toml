@@ -1,5 +1,5 @@
 baseurl = "https://store712.tn"
-disableLanguages = ["English"]
+disableLanguages = ["En"]
 googleAnalytics = "UA-214869998-1"
 summarylength = "20"
 theme = "vex-hugo"
@@ -9,13 +9,13 @@ contentDir = "content/english"
 copyright = "Store 712 (https://store712.tn/) "
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Store 712 (https://store712.tn/) "
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
