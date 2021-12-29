@@ -35,12 +35,14 @@ features:
     content: Livraison via First Delivery sur toute la Tunisie (8dt frais de livraison)
 promo:
   enable: true
-  image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: images/green-hoodie.png
+  title: Nos produits sont a la hauteur de votre confiance.
+  content: 'Les sites marchands se sont longtemps concentrés sur les KPI traditionnels
+    de la vente en ligne, comme l’acquisition de trafic, le panier moyen ou encore
+    le taux de conversion, en négligeant un aspect fondamental dans le commerce :
+    bâtir une relation de confiance sur le long terme avec ses clients.
+
+'
 about_product:
   enable: true
   title: Why Choose Apple Watch
