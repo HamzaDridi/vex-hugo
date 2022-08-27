@@ -1,9 +1,9 @@
-baseurl = "https://store712.tn"
+baseurl = "https://twixwear.tn"
 disableLanguages = []
-googleAnalytics = "UA-214869998-1"
+googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Store712 | Mode de luxe pour hommes et femmes"
+title = "TwixWear | Mode de luxe pour hommes et femmes"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Store 712 (https://store712.tn/) "
