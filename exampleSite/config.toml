@@ -20,15 +20,15 @@ weight = "1"
 unsafe = true
 [[menu.footer]]
 name = "Terms & Conditions"
-url = "https://store712.tn/privacy-policy"
+url = "https://twixwear.tn/privacy-policy"
 weight = 2
 [[menu.footer]]
 name = "Contact"
-url = "https://store712.tn/contact"
+url = "https://twixwear.tn/contact"
 weight = 1
 [[menu.footer]]
 name = "Privacy Policy"
-url = "https://store712.tn/privacy-policy"
+url = "https://twixwear.tn/privacy-policy"
 weight = 3
 [[menu.main]]
 name = "Produits"
@@ -43,10 +43,10 @@ name = "Acceuil"
 url = "https://store712.tn"
 weight = 1
 [params]
-author = "Store712"
+author = "Twixwear"
 contact_form_action = "#"
 currency = "TND"
-description = "Portez des grandes marques et labels de mode émergents sur Store712.  Livraison a domicile."
+description = "Portez des grandes marques et labels de mode émergents sur Twixwear.  Livraison a domicile."
 logo = "images/IMG_20211223_123022.png"
 logo_width = "100px"
 [[params.plugins.css]]
